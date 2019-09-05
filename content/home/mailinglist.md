@@ -29,7 +29,7 @@ Subscribe to my mailing list.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://textxd.us20.list-manage.com/subscribe/post?u=82b510e409dd1b55f00989394&amp;id=aad71e4362" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://world.us4.list-manage.com/subscribe/post?u=3ce521beb50cb1a1f628d807e&amp;id=2826051c98" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
